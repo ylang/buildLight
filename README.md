@@ -8,11 +8,9 @@ The NodeJs server should also listen to a IP port to determine what data should 
 	* Nodejs
 	* Express
 	* [Serialport](https://github.com/voodootikigod/node-serialport)
-	* [firmata](https://github.com/jgautier/firmata) Talk natively to Arduino using the firmata protocol.
-
 
 ##Babysteps
-	*	Node server -> Arduino ->LED
-	*	Data generator -> Node server
-	*	Data generator -> Node server -> Arduino -> LED 
-	*	Data generator -> Node server -> Arduino -> Relay board
+	[x]	Node server -> Arduino ->LED
+	[ ]	Data generator -> Node server
+	[ ]	Data generator -> Node server -> Arduino -> LED 
+	[ ] Data generator -> Node server -> Arduino -> Relay board
