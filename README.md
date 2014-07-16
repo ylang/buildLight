@@ -7,7 +7,7 @@ The NodeJs server should also listen to a IP port to determine what data should 
 ##Dependency
 	* Nodejs
 	* Express
-	* [Serialport](https://github.com/voodootikigod/node-serialport)
+	* [Serialport](github.com/voodootikigod/node-serialport)
 
 ##Babysteps
 	[x]	Node server -> Arduino ->LED
